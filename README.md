@@ -126,4 +126,6 @@ Tests do not require photographs. They create small NumPy images, experimental m
 
 ## License
 
-This repository does not declare a license yet. Add the license that matches the intended distribution before publishing it.
+This project is dedicated to the public domain under the [CC0-1.0 license](https://github.com/rzuini/probabilistic-reflex-suppressor#CC0-1.0-1-ov-file). The full license text is available in [`LICENSE`](LICENSE).
+
+CC0 applies to the original project materials owned by the contributors. Third-party dependencies, model weights, datasets, and images remain subject to their respective licenses and usage rights.
