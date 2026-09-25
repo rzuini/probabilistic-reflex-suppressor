@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docker Ephemeral Runtime"
+  short_description: "Run project commands in disposable Docker containers."
+  default_prompt: "Use the Docker skill to run project commands in disposable containers."
